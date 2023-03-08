@@ -1,0 +1,9 @@
+.idea/
+.vscode/
+log/
+build/
+export/
+.env
+go.sum
+main.go
+.DS_Store
